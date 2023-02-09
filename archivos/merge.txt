@@ -1,0 +1,1 @@
+GitHub no detectaba ningún cambió en el repositorio, dado que la carpeta estaba vacía. Al crear el archivo dentro, me detectó el cambio y efectivamente permitió hacer el commit para posteriormente hacer el push y subirlo a GitHub.
