@@ -1,1 +1,6 @@
-GitHub no detectaba ningún cambió en el repositorio, dado que la carpeta estaba vacía. Al crear el archivo dentro, me detectó el cambio y efectivamente permitió hacer el commit para posteriormente hacer el push y subirlo a GitHub.
+Leonard David Vivas Dallos
+17 años
+Mis aspiraciones en la materia se basan en seguir adquiriendo diferentes herramientas que me permitan crecer como programador,
+no solo centrándome en una especialidad, sino teniendo conocimientos en todos los ámbitos posibles.
+Además, adentrarme en un nuevo lenguaje de programación me dará diversidad de conocimientos y ampliará el espectro en el cual
+me pueda desarrollar más adelante.
