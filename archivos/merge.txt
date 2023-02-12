@@ -4,3 +4,10 @@ Mis aspiraciones en la materia se basan en seguir adquiriendo diferentes herrami
 no solo centrándome en una especialidad, sino teniendo conocimientos en todos los ámbitos posibles.
 Además, adentrarme en un nuevo lenguaje de programación me dará diversidad de conocimientos y ampliará el espectro en el cual
 me pueda desarrollar más adelante.
+
+GitHub no detectaba ningún cambió en el repositorio, dado que la carpeta estaba vacía. Al crear el archivo dentro, me detectó el cambio y efectivamente permitió hacer el commit para posteriormente hacer el push y subirlo a GitHub.
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo ya que nos traerá problemas en la claridad y el orden del trabajo,
+antes de hacer cualquier cambio hay que verificar que tenemos nuestros archivos al día con la nube y/o nuestros colaboradores. Este tipo
+de conflictos pueden llevarnos a dejar de lado información que ya teniamos definida, o a hacer cambios en el código que no queríamos,
+haciéndonos retroceder en nuestro buen desarrollo de programa y sobre todo, haciéndonos perder bastante tiempo.
